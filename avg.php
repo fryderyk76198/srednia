@@ -1,7 +1,7 @@
 <?php
 
 function srednia($a, $b) {
-	return ($ab + $b) / 2;
+	return 0.4*$ab + 0.6*$b;
 	
 }
 ?>
